@@ -5,5 +5,7 @@ A simple stock market price predictor for the Dow Jones Industrial Average using
 ## Training metrics
 
 Training steps: 36
+
 Final train RMSE: 0.28414
+
 Final validation RMSE: 0.17633
